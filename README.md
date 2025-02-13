@@ -1,6 +1,11 @@
-# Hejka Naklejka
+# Valentine card for your loved ones!
+
+<img alt="cats" src="https://github.com/kamemae/wompwomp/blob/main/images/cats/4.gif?raw=true">
 
 This is a simple interactive web page that asks a playful question and responds with animations, images, and music.
+
+## Preview
+Click [here](https://kamemae.github.io/wompwomp/) to see the preview
 
 ## Project Structure
 
