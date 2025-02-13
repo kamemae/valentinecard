@@ -34,4 +34,5 @@ This project uses GitHub Actions to deploy the static content to GitHub Pages. T
 
 ## License
 
-This project is licensed under the MIT License.
+Idc you can use it
+<sub>also you can lmk if you used it :3</sub>
